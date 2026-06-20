@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.env.*
+.obsidian/
+.claude/
+node_modules/
+.cache/
+*.tmp
+*.bak
+~$*
