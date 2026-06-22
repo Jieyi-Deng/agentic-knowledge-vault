@@ -1,12 +1,12 @@
 # Agentic Knowledge Vault: A Portable Information Structure for Human-AI Knowledge Work
 
-This repository is a sanitized public demonstration of a portable Markdown knowledge vault. It shows how raw notes — classroom discussions, video transcripts, and web articles — can be transformed into structured notes that are readable in GitHub, useful in Obsidian, and easier for AI agents to search, interpret, and maintain.
+This repository is a sanitized public demonstration of a portable Markdown knowledge vault. It shows how raw notes, including class notes, YTB videos, and blog articles (web posts), can be transformed into structured notes that are readable in GitHub, useful in Obsidian, and easier for AI agents to search, interpret, and maintain.
 
 ![Information story](files/information_story.png)
 
 ## Information Story
 
-Raw information often starts as scattered material: class discussion notes, a YouTube transcript, a saved web article. It is useful, but long, inconsistent, and hard to reuse. This vault converts raw notes into structured Markdown files with YAML frontmatter, source paths, topic indexes, and links between related concepts.
+Raw information often starts as scattered material: class discussion notes, a YouTube video, a saved web article. It is useful, but long, inconsistent, and hard to reuse. This vault converts raw notes into structured Markdown files with YAML frontmatter, source paths, topic indexes, and links between related concepts.
 
 The human role is judgment: deciding what belongs in the vault, what should stay private, which ideas matter, and whether a processed note is faithful to its source. The agent role is execution under explicit project rules: formatting notes, adding metadata, linking related pages, updating indexes, preserving provenance, and checking for broken references.
 
@@ -48,9 +48,7 @@ agentic-knowledge-vault/
 │   ├── metadata_schema.md
 │   ├── log.md
 │   └── templates/
-├── AGENTS.md
-├── LICENSE
-└── README.md
+└── AGENTS.md
 ```
 
 ## FAIR Principles
