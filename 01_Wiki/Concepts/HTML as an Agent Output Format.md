@@ -4,7 +4,7 @@ aliases: ["HTML vs Markdown for agents", "HTML artifacts", "agent output format"
 type: "concept_note"
 status: "processed"
 created: "2026-06-19"
-updated: "2026-06-19"
+updated: "2026-08-09"
 tags: ["concept", "html", "markdown", "agent-output", "information-formats", "human-ai-workflow"]
 summary: "HTML is often a better artifact format than Markdown for agent output because it is denser, more readable, shareable, and interactive - at the cost of tokens, speed, and diffability."
 source_paths:
@@ -12,7 +12,7 @@ source_paths:
 source_urls:
   - "https://x.com/trq212/status/2052809885763747935"
   - "https://thariqs.github.io/html-effectiveness/"
-related: ["[[Thariq - The Unreasonable Effectiveness of HTML]]", "[[Data Portability vs Data Usability]]", "[[FAIR Principles for Agentic Knowledge Bases]]", "[[Prompt Engineering Structure]]"]
+related: ["[[Thariq - The Unreasonable Effectiveness of HTML]]", "[[Prompt Engineering Structure]]"]
 confidence: "high"
 provenance: "Synthesized from the Thariq X-article raw capture without modifying the raw source."
 ---
@@ -47,11 +47,9 @@ Markdown is the default format agents use to talk to people: simple, portable, a
 
 ## Connection To This Vault
 
-This is a portability-and-usability decision, not a one-size-fits-all rule. The same trade-off appears in [[Data Portability vs Data Usability]] (movable but reviewable Markdown versus rich but noisy HTML) and in [[FAIR Principles for Agentic Knowledge Bases]], which notes that Markdown is compact and agent-friendly while HTML preserves rendering semantics. A practical split: keep durable, version-controlled knowledge as Markdown with metadata, and render HTML when the goal is reading, sharing, or interaction.
+The format choice is not a one-size-fits-all rule. A practical split for this vault is to keep durable, version-controlled knowledge as Markdown with metadata, and render HTML when the goal is reading, sharing, or interaction.
 
 ## Related Notes
 
 - [[Thariq - The Unreasonable Effectiveness of HTML]]
-- [[Data Portability vs Data Usability]]
-- [[FAIR Principles for Agentic Knowledge Bases]]
 - [[Prompt Engineering Structure]]

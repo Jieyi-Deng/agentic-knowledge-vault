@@ -4,7 +4,7 @@ aliases: ["Unreasonable Effectiveness of HTML", "HTML over Markdown for Claude C
 type: "source_note"
 status: "processed"
 created: "2026-06-19"
-updated: "2026-06-19"
+updated: "2026-08-09"
 tags: ["source-note", "claude-code", "html", "agent-output", "information-formats"]
 summary: "Thariq argues for preferring HTML over Markdown as the output format when working with Claude Code, because HTML is denser, easier to read and share, interactive, and keeps the human in the loop."
 source_paths:
@@ -12,7 +12,7 @@ source_paths:
 source_urls:
   - "https://x.com/trq212/status/2052809885763747935"
   - "https://thariqs.github.io/html-effectiveness/"
-related: ["[[HTML as an Agent Output Format]]", "[[FAIR Principles for Agentic Knowledge Bases]]", "[[Data Portability vs Data Usability]]"]
+related: ["[[HTML as an Agent Output Format]]", "[[Prompt Engineering Structure]]"]
 source_type: "x_article"
 author: "Thariq (@trq212)"
 platform: "X"
@@ -59,8 +59,7 @@ Trade-offs the author acknowledges in the FAQ:
 ## Connections
 
 - [[HTML as an Agent Output Format]] - the reusable concept extracted from this source.
-- [[FAIR Principles for Agentic Knowledge Bases]] - this vault's note already weighs Markdown's agent-friendly compactness against HTML's rendering semantics; this source is direct evidence for that trade-off.
-- [[Data Portability vs Data Usability]] - HTML's noisy diffs versus Markdown's reviewability is a portability-versus-usability tension.
+- [[Prompt Engineering Structure]] - a complementary example of structuring the input side of work with an LLM.
 
 ## Open Questions
 

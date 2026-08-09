@@ -78,7 +78,7 @@ Use this structure unless the human explicitly changes the project convention:
   - Contains indexes, metadata schema, manifest, templates, and maintenance log.
   - Keep this layer lightweight and useful for routing.
 
-This public demonstration includes a class-notes example under `00_Raw/Inbox/Class Notes/` and two external-source examples under `00_Raw/Sources/`, but the same structure can be reused for another user's own sources and topics.
+This public demonstration includes two external-source examples under `00_Raw/Sources/` and intentionally excludes personal notes and coursework, but the same structure can be reused for another user's own sources and topics.
 
 ## Reading Order
 

@@ -4,14 +4,14 @@ aliases: ["prompt structure", "anatomy of a prompt", "ten-part prompt"]
 type: "concept_note"
 status: "processed"
 created: "2026-06-19"
-updated: "2026-06-19"
+updated: "2026-08-09"
 tags: ["concept", "prompt-engineering", "claude", "llm", "human-ai-workflow"]
 summary: "A layered prompt structure - role, context, instructions, examples, reminders, and output controls - that makes one-shot LLM tasks more reliable."
 source_paths:
   - "00_Raw/Sources/YouTube/Prompting 101 Code w Claude.md"
 source_urls:
   - "https://www.youtube.com/watch?v=ysPbXH0LpIE"
-related: ["[[Prompting 101 - Code with Claude]]", "[[HTML as an Agent Output Format]]", "[[FAIR Principles for Agentic Knowledge Bases]]"]
+related: ["[[Prompting 101 - Code with Claude]]", "[[HTML as an Agent Output Format]]"]
 confidence: "high"
 provenance: "Synthesized from the Prompting 101 raw transcript without modifying the raw source."
 ---
@@ -50,4 +50,3 @@ A minimal prompt forces the model to guess at the scene and the goal. Each layer
 
 - [[Prompting 101 - Code with Claude]]
 - [[HTML as an Agent Output Format]]
-- [[FAIR Principles for Agentic Knowledge Bases]]
