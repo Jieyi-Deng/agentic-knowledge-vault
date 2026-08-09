@@ -102,7 +102,7 @@ Keep these files lightweight. They are routing tools, not copies of note content
 Use [`AGENTS.md`](AGENTS.md) as the project-level operating instructions. A typical request is: *"Read the index, topic index, manifest, and metadata schema first. Then process the new YouTube transcript into a source note and any reusable concept notes, update routing metadata, and verify links and provenance."*
 
 > [!TIP]
-> Companion agent skills are maintained separately. Browse the [`skills/` directory in `Jieyi-Deng/jieyi-skills`](https://github.com/Jieyi-Deng/jieyi-skills/tree/main/skills) for the skills used with this vault.
+> Companion agent skills are maintained separately. Browse the [`skills in Jieyi-Deng/jieyi-skills`](https://github.com/Jieyi-Deng/jieyi-skills/tree/main/skills) for the skills used with this vault.
 
 ## Public Release Scope
 
